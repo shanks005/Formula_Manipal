@@ -11,4 +11,4 @@ Designed using MATLAB Simulink / LTspice / Multisim (specify tools if applicable
 🛠️ Code Snippets and Solutions:
 
 The repository contains .txt files with code snippets and solutions for exercises from the following Arduino certification course:
-Coursera: Arduino Platform
+[Coursera:(https://www.coursera.org/programs/manipal-education-tguaf/learn/arduino-platform?authProvider=manipal)]
