@@ -1,2 +1,14 @@
-# Formula_Manipal
-As a Formula Manipal Taskphase Recruit these are the various circuit simulations in the following time period most delving into analog electronics
+🛠️ Formula Manipal – Circuit Simulations
+As part of my Formula Manipal Taskphase recruitment, this repository contains various circuit simulations created over the given time period, primarily focusing on analog electronics.
+
+🔥 Contents
+🔌 Analog Circuit Simulations:
+
+Simulations related to amplifiers, filters, and basic analog circuits.
+
+Designed using MATLAB Simulink / LTspice / Multisim (specify tools if applicable).
+
+🛠️ Code Snippets and Solutions:
+
+The repository contains .txt files with code snippets and solutions for exercises from the following Arduino certification course:
+Coursera: Arduino Platform
